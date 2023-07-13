@@ -26,12 +26,12 @@ Um app em que o usuário possa frequentar as academias que estão cadastradas no
 - [x] O usuário não pode fazer dois check-ins no dia 
 - [x] O usuário não pode fazer check-in se não estiver perto ( 100ms ) da academia
 - [x] O check-in só pode ser validado até 20 minutos após criado
-- [ ] A academia só pode ser validado por administradores
-- [ ] o check-in só pode ser validado por administradores
+- [x] A academia só pode ser validado por administradores
+- [x] o check-in só pode ser validado por administradores
 
 # RNFs 
 
 - [x] A senha do meu usuário precisa estar criptografada
 - [x] Os dados da aplicação serão armazenados em um banco de dados PostgreSQL
 - [x] Todas as listas de dados precisam estar paginadas com 20 itens por página
-- [ ] O usuário deve ser identificado por um JWT ( JSON Web Token )
+- [x] O usuário deve ser identificado por um JWT ( JSON Web Token )
